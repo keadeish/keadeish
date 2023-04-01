@@ -75,7 +75,7 @@ Hey! I'm Keadeish. I'm a full-stack developer based in Hackney, London. I have w
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 <hr>
-## ✉️ Contact Me
+✉️ Contact Me
 
 
 ### Email: keadeish.morrison@hotmail.com
