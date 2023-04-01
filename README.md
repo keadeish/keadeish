@@ -37,6 +37,12 @@ Hey! I'm Keadeish. I'm a full-stack developer based in Hackney, London. I have w
       <td><a href="https://github.com/SEVGI1231/dogBreedVote"><b>PostgreSQL Express Node.js</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
+     <tr>
+      <td><a href="https://psychician.co.uk/" target="_blank"><b>Anime Website ⛩️<b></a></td>
+      <td><a href="https://github.com/keadeish/anime"><b>React, TypeScript</b></a></td>
+      <td><b>No Backend</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
   </tbody>
 </table>
 
