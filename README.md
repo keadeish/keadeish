@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=keadeish&style=flat-square&color=blueviolet)
 
 <hr>
-
 Hey! I'm Keadeish. I'm a full-stack developer based in Hackney, London. I have worked on various projects, utilising a range of languages to help visualise my creativity. I'm very interested in software-automation, and making tasks efficient through the use of bots. I have professional experience using Swift & have made some interesting bots using the Node library - Puppeteer 🎭.
 
 ## 🏗️ Featured projects
