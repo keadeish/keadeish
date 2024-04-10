@@ -18,6 +18,12 @@ Hey! I'm Keadeish. I'm a full-stack developer based in Hackney, London. I have w
   </thead>
   <tbody>
   <tbody align="center">
+      <tr>
+      <td><a href="https://keadeish.com" target="_blank"><b>Portfolio Site 💻<b></a></td>
+      <td><a href="https://github.com/keadeish/portfolio"><b>React, TypeScript</b></a></td>
+      <td><b>No Backend</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
     <tr>
       <td><a href="https://c5c2-study-resources.netlify.app" target="_blank"><b>Study Resource Catalog App 📖<b></a></td>
       <td><a href="https://github.com/maemastersdev/C5C2-Study-Resources-FrontEnd"><b>React, TypeScript</b></a></td>
