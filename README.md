@@ -54,6 +54,12 @@ Hey! I'm Keadeish. I'm a full-stack developer based in Hackney, London. I have w
       <td><a href="https://github.com/keadeish/service-desk-tools/blob/main/ServiceDeskTools.ps1"><b>PowerShell</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
+    <tr>
+      <td><a><b>Crocs Stock Monitor 🐊<b></a></td>
+      <td><b>No Frontend</b></a></td>
+      <td><a href="https://github.com/keadeish/crocs-monitor-backend"><b>Express Node.js Puppeteer</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+  </tr>
   </tbody>
 </table>
 
