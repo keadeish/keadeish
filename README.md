@@ -62,19 +62,6 @@ Hey! I'm Keadeish. I'm a full-stack developer based in Hackney, London. I have w
   </tr>
   </tbody>
 </table>
-
-
-## 💻 GitHub Summary
-<hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keadeish&count_private=true&show_icons=true&theme=midnight-purple&card_width=550)
-
-## 🖊️ Streak stats
-
-<hr>
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=keadeish&theme=midnight-purple)
-
 <!-- ## 🧰 What I've been coding with
 
 <hr>
