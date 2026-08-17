@@ -50,7 +50,7 @@ Hey! I'm Keadeish. I'm a full-stack developer based in Hackney, London. I have w
     </tr>
     <tr>
       <td><a><b>Active Directory Export Tool 🤖<b></a></td>
-      <td><a href="https://github.com/keadeish/service-desk-tools/blob/main/MainWindow.xaml"><b>C#, WPF</b></a></td>
+      <td><a href="https://github.com/keadeish/service-desk-tools"><b>C#, WPF</b></a></td>
       <td><a href="https://github.com/keadeish/service-desk-tools"><b>PowerShell</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
